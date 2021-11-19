@@ -4,7 +4,7 @@ public abstract class Alimentos {
 
 	private int quantidade, valor_energetico;
 	private double preco;
-
+	
 	public int getQuantidade() {
 		return quantidade;
 	}

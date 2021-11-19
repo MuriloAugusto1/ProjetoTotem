@@ -45,4 +45,5 @@ public class lanches extends Alimentos {
 	public void setAcompanhamento(boolean acompanhamento) {
 		this.acompanhamento = acompanhamento;
 	}
+	
 }
